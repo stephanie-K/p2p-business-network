@@ -24,7 +24,7 @@ However, if you believe that things have gone wrong, please send your complaints
 
 4) Once you select **Report an issue**, a form will appear on screen
 
-![screenshot showing the form on screen(../../images/report-issue3.png)
+![screenshot showing the form on screen](../../images/report-issue3.png)
 
 5) Follow the instructions
 
