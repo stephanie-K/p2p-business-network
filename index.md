@@ -7,7 +7,7 @@ In response to this time of extraordinary challenge, this network offers a digit
 
 > Lear more about [this network](learn-more.md)
 
-Staff from Scottish Enterprise will help to facilitate the Network, helping to encourage engagement of relevant business themes as well as offer insights and support when needed.
+Staff from [**Scottish Enterprise**](https://www.scottish-enterprise.com/) will help to facilitate the Network, helping to encourage engagement of relevant business themes as well as offer insights and support when needed.
 
 > Read our [Rules of Engagement](rules-of-engagement.md)
 
