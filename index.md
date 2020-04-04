@@ -9,7 +9,7 @@ In response to this time of extraordinary challenge, this network offers a digit
 
 Staff from Scottish Enterprise will help to facilitate the Network, helping to encourage engagement of relevant business themes as well as offer insights and support when needed.
 
-> Read our [Rules of Engagement](rules-of-engagement.md).
+> Read our [Rules of Engagement](rules-of-engagement.md)
 
 ### Getting Started
 
