@@ -20,11 +20,11 @@ However, if you believe that things have gone wrong, please send your complaints
 
 3) Select the icon an you will see a menu with: **Report an issue**
 
-![screenshot showing where the icon is in slack](../../images/report-issue2.png)
+![screenshot showing where Report an issue is in the menu](../../images/report-issue2.png)
 
 4) Once you select **Report an issue**, a form will appear on screen
 
-![screenshot showing where the icon is in slack](../../images/report-issue3.png)
+![screenshot showing the form on screen(../../images/report-issue3.png)
 
 5) Follow the instructions
 
