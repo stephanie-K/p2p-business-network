@@ -18,6 +18,5 @@ You should have received an invitation to join
 1. sign up for your Slack account
 2. accept our rules of engagements
 3. create your profile
-4. add your name, your organisation, your role
-5. start engaging with other businesses
+4.  start engaging with other businesses
 
