@@ -1,4 +1,15 @@
-# Edition
+# This is a potential website to support the Slack forum
+
+This is built using Github pages, Jekyll and CloudCannon. By using some markdown language, you can create content which is deployed in the next 2 to 5 min to a website. No hosting needed and it's free.
+
+[See the result here](https://stephanie-k.github.io/p2p-business-network/)
+
+![draft logo for the peer to peer business network](images/P2PBN-regtangle.png)
+
+
+
+
+## Learn more about Jekyll and Cloudcannon
 
 Product documentation template for Jekyll. Browse through a [live demo](https://long-pig.cloudvent.net/).
 Start documenting your product, application, service or website with this configurable theme.
