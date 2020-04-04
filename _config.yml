@@ -1,17 +1,17 @@
 # ----
 # Site
 
-title: Edition Template
+title: P2P Business Network - Documentation
 url: "https://long-pig.cloudvent.net"
 baseurl:
 google_analytics_key:
 show_full_navigation: true
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
-logo: /siteicon.png
+logo: /P2PBN.png
 description: Product documentation template for Jekyll.
 author:
-  name:
+  name: 
   email:
   twitter: # twitter username without the @ symbol
 social:
